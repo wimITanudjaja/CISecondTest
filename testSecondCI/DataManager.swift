@@ -10,6 +10,6 @@ import UIKit
 //import KeychainAccess
 
 class DataManager: NSObject {
-//    var keychain = Keychain(service: "com.rigil.testCI232323232")
-
+    
+    
 }
