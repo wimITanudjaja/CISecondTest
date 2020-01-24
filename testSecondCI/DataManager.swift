@@ -7,9 +7,9 @@
 //
 
 import UIKit
-import KeychainAccess
+//import KeychainAccess
 
 class DataManager: NSObject {
-    var keychain = Keychain(service: "com.rigil.testCI232323232")
+//    var keychain = Keychain(service: "com.rigil.testCI232323232")
 
 }
